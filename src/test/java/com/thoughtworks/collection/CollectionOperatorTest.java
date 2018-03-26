@@ -17,11 +17,9 @@ public class CollectionOperatorTest {
         int left = 1;
 
         CollectionOperator collectionOperator = new CollectionOperator();
-
         Integer[] result = new Integer[]{1, 2, 3, 4, 5};
         List<Integer> resultList = Arrays.asList(result);
         assertThat(collectionOperator.getListByInterval(left, right)).isEqualTo(resultList);
-
         Integer[] inverseResult = new Integer[]{5, 4, 3, 2, 1};
         List<Integer> inverseResultList = Arrays.asList(inverseResult);
         assertThat(collectionOperator.getListByInterval(right, left)).isEqualTo(inverseResultList);

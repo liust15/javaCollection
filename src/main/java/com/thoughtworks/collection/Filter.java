@@ -14,7 +14,8 @@ public class Filter {
     }
 
     public List<Integer> filterEven() {
-        throw new NotImplementedException();
+
+       // throw new NotImplementedException();
     }
 
     public List<Integer> filterMultipleOfThree() {

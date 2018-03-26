@@ -3,6 +3,7 @@ package com.thoughtworks.collection;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class CollectionOperator {
@@ -72,6 +73,14 @@ public class CollectionOperator {
     }
 
     public List<Integer> addUncommonElement(Integer[] firstArray, Integer[] secondArray) {
-        throw new NotImplementedException();
+       List<Integer> list=new ArrayList<>();
+       list.addAll(Arrays.asList(firstArray));
+        for (int i = 0; i <secondArray.length ; i++) {
+            if(!list.contains(secondArray[i])){
+                list.add(secondArray[i]);
+            }
+        }
+        return list;
+        // throw new NotImplementedException();
     }
 }
