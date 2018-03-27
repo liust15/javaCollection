@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c994c826-c02f-4dcd-aad9-2d7df857d384" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/CollectionOperator.java" afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/CollectionOperator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Filter.java" afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Filter.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/CollectionOperatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/CollectionOperatorTest.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/collection/Flaten.class" afterPath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/collection/Flaten.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/collection/InverseReduce.class" afterPath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/collection/InverseReduce.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/collection/MyMap.class" afterPath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/collection/MyMap.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/collection/Reduce.class" afterPath="$PROJECT_DIR$/out/production/classes/com/thoughtworks/collection/Reduce.class" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/thoughtworks/collection/FlatenTest.class" afterPath="$PROJECT_DIR$/out/test/classes/com/thoughtworks/collection/FlatenTest.class" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/thoughtworks/collection/ReduceTest.class" afterPath="$PROJECT_DIR$/out/test/classes/com/thoughtworks/collection/ReduceTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Flaten.java" afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Flaten.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/InverseReduce.java" afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/InverseReduce.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/MyMap.java" afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/MyMap.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Reduce.java" afterPath="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Reduce.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/FlatenTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/FlatenTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/ReduceTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/ReduceTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,27 +33,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Filter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Filter.java">
+      <file leaf-file-name="MyMapTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/MyMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+            <state relative-caret-position="1275">
+              <caret line="79" column="31" lean-forward="false" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FilterTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/FilterTest.java">
+      <file leaf-file-name="ReduceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/ReduceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="241">
+              <caret line="122" column="55" lean-forward="true" selection-start-line="122" selection-start-column="55" selection-end-line="122" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleLink.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/SingleLink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reduce.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Reduce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="80" column="33" lean-forward="false" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+              <folding>
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/MyMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>singleLink.size()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>count</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -347,6 +398,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/CollectionOperator.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/CollectionOperatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Filter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/FlatenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Flaten.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/InverseReduce.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/MyMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/MyMap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/ReduceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Reduce.java" />
       </list>
     </option>
   </component>
@@ -357,10 +415,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
     <option name="y" value="23" />
-    <option name="width" value="1334" />
-    <option name="height" value="831" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -377,6 +434,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -435,10 +496,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -463,7 +520,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FilterTest">
+  <component name="RunManager" selected="JUnit.ReduceTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -484,7 +541,7 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="FilterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.thoughtworks.collection.*" />
@@ -495,7 +552,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.thoughtworks.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.FilterTest" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.MyMapTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -509,7 +566,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FilterTest.should_return_common_elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReduceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.thoughtworks.collection.*" />
@@ -520,8 +577,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.thoughtworks.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.FilterTest" />
-      <option name="METHOD_NAME" value="should_return_common_elements" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.ReduceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ReduceTest.should_get_element_in_middle_position_in_linkList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.thoughtworks.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="collection-operator_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.collection" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.ReduceTest" />
+      <option name="METHOD_NAME" value="should_get_element_in_middle_position_in_linkList" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -534,7 +616,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FilterTest.should_return_different_elements_in_arrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReduceTest.should_get_maximum_of_list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.thoughtworks.collection.*" />
@@ -545,8 +627,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.thoughtworks.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.FilterTest" />
-      <option name="METHOD_NAME" value="should_return_different_elements_in_arrayList" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.ReduceTest" />
+      <option name="METHOD_NAME" value="should_get_maximum_of_list" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -559,7 +641,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FilterTest.should_return_even" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReduceTest.should_get_minimum_of_list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.thoughtworks.collection.*" />
@@ -570,33 +652,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.thoughtworks.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.FilterTest" />
-      <option name="METHOD_NAME" value="should_return_even" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="FilterTest.should_return_multiple_of_three" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.thoughtworks.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="collection-operator_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.thoughtworks.collection" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.FilterTest" />
-      <option name="METHOD_NAME" value="should_return_multiple_of_three" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.collection.ReduceTest" />
+      <option name="METHOD_NAME" value="should_get_minimum_of_list" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -670,19 +727,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FilterTest.should_return_even" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FilterTest.should_return_multiple_of_three" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FilterTest.should_return_different_elements_in_arrayList" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FilterTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FilterTest.should_return_common_elements" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MyMapTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ReduceTest.should_get_maximum_of_list" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ReduceTest.should_get_minimum_of_list" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ReduceTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ReduceTest.should_get_element_in_middle_position_in_linkList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FilterTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FilterTest.should_return_different_elements_in_arrayList" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FilterTest.should_return_common_elements" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FilterTest.should_return_multiple_of_three" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FilterTest.should_return_even" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ReduceTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MyMapTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ReduceTest.should_get_element_in_middle_position_in_linkList" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ReduceTest.should_get_minimum_of_list" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ReduceTest.should_get_maximum_of_list" />
       </list>
     </recent_temporary>
   </component>
@@ -700,78 +757,79 @@
       <option name="presentableId" value="Default" />
       <updated>1521945875215</updated>
       <workItem from="1521945876542" duration="747000" />
-      <workItem from="1522030421849" duration="8134000" />
+      <workItem from="1522030421849" duration="13453000" />
+      <workItem from="1522115919787" duration="5794000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CollectionOperatorTest - 2018.03.26 at 16h 29m 16s.xml">
-      <configuration name="CollectionOperatorTest" configurationId="JUnit" />
+    <history-entry file="MyMapTest - 2018.03.27 at 11h 27m 13s.xml">
+      <configuration name="MyMapTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CollectionOperatorTest_should_add_uncommon_elements_to_first_array - 2018.03.26 at 16h 29m 07s.xml">
-      <configuration name="CollectionOperatorTest.should_add_uncommon_elements_to_first_array" configurationId="JUnit" />
+    <history-entry file="ReduceTest - 2018.03.27 at 11h 27m 17s.xml">
+      <configuration name="ReduceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CollectionOperatorTest_should_pop_common_elements - 2018.03.26 at 16h 21m 41s.xml">
-      <configuration name="CollectionOperatorTest.should_pop_common_elements" configurationId="JUnit" />
+    <history-entry file="ReduceTest - 2018.03.27 at 11h 29m 12s.xml">
+      <configuration name="ReduceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CollectionOperatorTest_should_pop_last_element - 2018.03.26 at 16h 19m 24s.xml">
-      <configuration name="CollectionOperatorTest.should_pop_last_element" configurationId="JUnit" />
+    <history-entry file="ReduceTest - 2018.03.27 at 13h 27m 18s.xml">
+      <configuration name="ReduceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilterTest - 2018.03.26 at 16h 43m 39s.xml">
-      <configuration name="FilterTest" configurationId="JUnit" />
+    <history-entry file="ReduceTest - 2018.03.27 at 13h 27m 28s.xml">
+      <configuration name="ReduceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilterTest_should_return_common_elements - 2018.03.26 at 16h 43m 50s.xml">
-      <configuration name="FilterTest.should_return_common_elements" configurationId="JUnit" />
+    <history-entry file="ReduceTest - 2018.03.27 at 13h 29m 05s.xml">
+      <configuration name="ReduceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilterTest_should_return_different_elements_in_arrayList - 2018.03.26 at 16h 40m 28s.xml">
-      <configuration name="FilterTest.should_return_different_elements_in_arrayList" configurationId="JUnit" />
+    <history-entry file="ReduceTest - 2018.03.27 at 13h 33m 35s.xml">
+      <configuration name="ReduceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilterTest_should_return_different_elements_in_arrayList - 2018.03.26 at 16h 43m 56s.xml">
-      <configuration name="FilterTest.should_return_different_elements_in_arrayList" configurationId="JUnit" />
+    <history-entry file="ReduceTest - 2018.03.27 at 13h 33m 43s.xml">
+      <configuration name="ReduceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilterTest_should_return_even - 2018.03.26 at 16h 37m 54s.xml">
-      <configuration name="FilterTest.should_return_even" configurationId="JUnit" />
+    <history-entry file="ReduceTest_should_get_element_in_middle_position_in_linkList - 2018.03.27 at 11h 22m 02s.xml">
+      <configuration name="ReduceTest.should_get_element_in_middle_position_in_linkList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilterTest_should_return_multiple_of_three - 2018.03.26 at 16h 38m 30s.xml">
-      <configuration name="FilterTest.should_return_multiple_of_three" configurationId="JUnit" />
+    <history-entry file="ReduceTest_should_get_element_in_middle_position_in_linkList - 2018.03.27 at 11h 22m 23s.xml">
+      <configuration name="ReduceTest.should_get_element_in_middle_position_in_linkList" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8881000" />
+    <option name="totallyTimeSpent" value="19994000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="23" width="1334" height="831" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47418478" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26702785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45737484" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35459185" sideWeight="0.5051151" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.4948849" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3980978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39769822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45737484" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -813,11 +871,35 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/MyMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/MyMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/ReduceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Add.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -826,43 +908,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Flaten.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/InverseReduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/MyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Reduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/com/sun/org/apache/bcel/internal/util/ClassVector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,22 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/SingleLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/FilterHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/CollectionOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -910,10 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-58">
           <caret line="313" column="34" lean-forward="true" selection-start-line="313" selection-start-column="34" selection-end-line="313" selection-end-column="34" />
-          <folding>
-            <element signature="e#11079#11080#0" expanded="true" />
-            <element signature="e#11117#11118#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -933,19 +962,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/FilterHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Flaten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Filter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        <state relative-caret-position="263">
+          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/FilterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        <state relative-caret-position="527">
+          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/FlatenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/InverseReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/InverseReduceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/MyMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="79" column="31" lean-forward="false" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/MyMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/SingleLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collection/ReduceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="122" column="55" lean-forward="true" selection-start-line="122" selection-start-column="55" selection-end-line="122" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collection/Reduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="80" column="33" lean-forward="false" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -13,7 +13,7 @@ public class ReduceTest {
     @Test
     public void should_get_maximum_of_list() {
         // 获取数组中的最大值
-        Integer[] array = new Integer[]{1, 5, 7, 2, 8, 9, 3, 2};
+        Integer[] array = new Integer[]{1, 5, 7, 2, 8, 9, 3, 2,8};
         List<Integer> arrayList = Arrays.asList(array);
 
         Reduce reduce = new Reduce(arrayList);
